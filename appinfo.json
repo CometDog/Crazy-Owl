@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Crazy Owl",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logobw.png",
+                "menuIcon": true,
+                "name": "LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/owlbw.png",
+                "name": "OWL",
+                "type": "png"
+            },
+            {
+                "file": "images/eyes.png",
+                "name": "EYES",
+                "type": "png"
+            },
+            {
+                "file": "images/numbers.png",
+                "name": "NUMBERS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Crazy Owl",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0327be9a-8261-4c36-a851-3ae468c87129",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
