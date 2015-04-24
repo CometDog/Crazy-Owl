@@ -9,14 +9,8 @@
     "resources": {
         "media": [
             {
-                "file": "images/logobw.png",
-                "menuIcon": true,
-                "name": "LOGO",
-                "type": "png"
-            },
-            {
-                "file": "images/owlbw.png",
-                "name": "OWL",
+                "file": "images/numbers.png",
+                "name": "NUMBERS",
                 "type": "png"
             },
             {
@@ -25,8 +19,14 @@
                 "type": "png"
             },
             {
-                "file": "images/numbers.png",
-                "name": "NUMBERS",
+                "file": "images/owlbw.png",
+                "name": "OWL",
+                "type": "png"
+            },
+            {
+                "file": "images/logobw.png",
+                "menuIcon": true,
+                "name": "LOGO",
                 "type": "png"
             }
         ]

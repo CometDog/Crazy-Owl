@@ -1,3 +1,7 @@
+/*
+  Copyright (C) 2015 James Downs
+  Full license in main.c
+*/
 #pragma once
 
 #include "pebble.h"
